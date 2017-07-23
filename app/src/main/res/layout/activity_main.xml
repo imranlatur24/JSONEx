@@ -1,0 +1,21 @@
+<LinearLayout android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:gravity="center"
+        android:id="@+id/button1"
+        android:text="FETCH JSON DATA"
+        android:textStyle="bold"
+        android:textSize="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
