@@ -1,0 +1,19 @@
+{
+	students: [
+		{
+			firstname: "imran",
+			lastname:"shaikh",
+			age:"24"
+		},
+		{
+			firstname: "sainath",
+			lastname:"hiwale",
+			age:"27"
+		},
+		{
+			firstname: "rahul",
+			lastname:"mandale",
+			age:"25"
+		}
+	]
+}
